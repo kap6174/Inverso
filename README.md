@@ -1,5 +1,5 @@
 <!-- To view the README.md in proper format open preview-->
-# Inverso
+# Reverso
 
 Junaid Ahmed  
 Roll No: 2024201018  
