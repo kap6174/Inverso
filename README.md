@@ -1,9 +1,9 @@
 <!-- To view the README.md in proper format open preview-->
-# AOS Assignment 1
+# Inverso
 
 Junaid Ahmed  
 Roll No: 2024201018  
-M.Tech CSE
+M.Tech CSE, IIITH
 
 ---
 
